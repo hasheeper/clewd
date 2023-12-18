@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center">/
 <a href="https://github.com/teralomaniac/clewd">
 <h1>Clewd</h1>
   <img
